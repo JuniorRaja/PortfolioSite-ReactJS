@@ -1,0 +1,5 @@
+{
+  "editor.tabCompletion": "off",
+  "search.quickOpen.includeSymbols": false,
+  "git.ignoreLimitWarning": true
+}
